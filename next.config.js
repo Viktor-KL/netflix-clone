@@ -5,7 +5,8 @@ module.exports = {
     loader: "default",
     minimumCacheTTL: 60,
     domains: [
-      "image.tmdb.org"
+      "image.tmdb.org",
+      "rb.gy"
     ],
   },
 }
